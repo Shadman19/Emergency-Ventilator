@@ -13,3 +13,17 @@ Currently it is possible to implement two modes in our ventilator. These are Ass
 In this mode our ventilator user has to set the values ​​of Tidal Volume, Frequency, FiO2 and PEEP. The ventilator will then provide the patient with a certain volume of oxygen-rich air at a specific frequency. In this case, if the patient tries to breathe, the complete Breath Cycle will be completed. ACV is unsuitable for patients who breathe fast.
 # Manual Mode: 
 In this mode our ventilator user has to set the values ​​of Tidal Volume, Frequency, I / E Ratio, FiO2, PEEP, Peak Pressure. In this mode the ventilator will supply oxygen rich air of a certain volume to the patient according to a specific I / E ratio. In this case the complete Breath Cycle will be completed at a specific frequency.
+# 2. Alarm
+Our ventilator has a variety of alarms to ensure patient safety. Alarms - Exceeded PIP Pressure, Under Pressure, Tube leak, Unmet Tidal Volume, Over Current Fault and Mechanical Fault Alarm.
+
+It is important to note that each alarm will display a defect on the display.
+If the patient's inspiratory pressure is ever higher than the prescribed peak inspiratory pressure, the ventilator will automatically stop pressing the ambo bag and alert the person on duty via an Exceeded PIP Pressure alarm.
+
+If for any reason the Breathing Circuit is disconnected, it will alert the person concerned through Tube Leak Alarm.
+
+Similarly, if the value of inspiratory pressure is comparatively low due to any leakage or any other reason, the ventilator will notify the person on duty through Under Pressure alarm.
+Unmet Tidal Volume alarm will alert the user if our device provides less Tidal Volume than the required Tidal Volume of the patient.
+
+If the device exceeds a certain limit of current, it will alert the user via Over Current Fault Alarm.
+
+Mechanical Fault Alarm is a mechanical fault in our instrument for any reason. This will alert the person concerned.
