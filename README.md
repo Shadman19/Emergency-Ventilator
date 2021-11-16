@@ -26,5 +26,4 @@ Unmet Tidal Volume alarm will alert the user if our device provides less Tidal V
 # 3. Android App
 By activating the Bluetooth of the mobile phone and launching the app created for the ventilator, the user's mobile connection with the ventilator will be established and the user will be able to control the device through his mobile.By going to the mobile app, the user can set the value of BPM, Tidal Volume, PEEP etc. as per his requirement.When the value is set the device will send a confirmation message to the user and the device will start working as per instructions as soon as the device presses the “1” button and “start” button. Through the app of the phone, the user can also see the graph of the patient's pressure flow.
 If the device exceeds a certain limit of current, it will alert the user via Over Current Fault Alarm.
-
-Mechanical Fault Alarm is a mechanical fault in our instrument for any reason. This will alert the person concerned.
+Mechanical Fault Alarm will alert the person concerned when mechanical fault occurs.
