@@ -9,5 +9,7 @@ Durbar Kandari Emergency Ventilator which is made with very low cost indigenous 
 Our ventilator basically supports volume control mode. It presses an ambu bag with the help of two mechanical arms connected by a rack and pinion. Also with the help of pressure sensor can understand the value of pressure and the value of volume from the displacement of the rack and can implement the modes accordingly.
 
 Currently it is possible to implement two modes in our ventilator. These are Assist Control Mode (AC) and Manual Mode.
-AC Mode: In this mode our ventilator user has to set the values ​​of Tidal Volume, Frequency, FiO2 and PEEP. The ventilator will then provide the patient with a certain volume of oxygen-rich air at a specific frequency. In this case, if the patient tries to breathe, the complete Breath Cycle will be completed. ACV is unsuitable for patients who breathe fast.
-Manual Mode: In this mode our ventilator user has to set the values ​​of Tidal Volume, Frequency, I / E Ratio, FiO2, PEEP, Peak Pressure. In this mode the ventilator will supply oxygen rich air of a certain volume to the patient according to a specific I / E ratio. In this case the complete Breath Cycle will be completed at a specific frequency.
+# AC Mode: 
+In this mode our ventilator user has to set the values ​​of Tidal Volume, Frequency, FiO2 and PEEP. The ventilator will then provide the patient with a certain volume of oxygen-rich air at a specific frequency. In this case, if the patient tries to breathe, the complete Breath Cycle will be completed. ACV is unsuitable for patients who breathe fast.
+# Manual Mode: 
+In this mode our ventilator user has to set the values ​​of Tidal Volume, Frequency, I / E Ratio, FiO2, PEEP, Peak Pressure. In this mode the ventilator will supply oxygen rich air of a certain volume to the patient according to a specific I / E ratio. In this case the complete Breath Cycle will be completed at a specific frequency.
