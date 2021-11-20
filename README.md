@@ -36,4 +36,5 @@ The ventilator crisis in Bangladesh will be solved through Durbar Kandari Emerge
 https://drive.google.com/file/d/1EURlDSFRqueynMlFAGd0fwvN7exS0qcK/view?usp=sharing
 
 -- The uploaded file "Emergency_Ventilator_Details.pdf" contains a detaild doucumentation to provide a comprehensive description of the work.
+
 -- Codes of user interfacing and other relevant codes and design files have been provided in the uploaded file section.
