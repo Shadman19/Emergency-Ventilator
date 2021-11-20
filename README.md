@@ -35,4 +35,4 @@ The ventilator crisis in Bangladesh will be solved through Durbar Kandari Emerge
 -- The compressed file containing the video of operation of the ventilator can be found in the link:
 https://drive.google.com/file/d/1EURlDSFRqueynMlFAGd0fwvN7exS0qcK/view?usp=sharing
 
--- The uploaded file 
+-- The uploaded file "Emergency_Ventilator_Details.pdf" contains a detaild doucumentation to provide a comprehensive description of the work.
