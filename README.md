@@ -38,3 +38,5 @@ https://drive.google.com/file/d/1EURlDSFRqueynMlFAGd0fwvN7exS0qcK/view?usp=shari
 -- The uploaded file "Emergency_Ventilator_Details.pdf" contains a detaild doucumentation to provide a comprehensive description of the work.
 
 -- Codes of user interfacing and other relevant codes and design files have been provided in the uploaded file section.
+
+# 6. License
