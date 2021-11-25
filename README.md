@@ -40,3 +40,4 @@ https://drive.google.com/file/d/1EURlDSFRqueynMlFAGd0fwvN7exS0qcK/view?usp=shari
 -- Codes of user interfacing and other relevant codes and design files have been provided in the uploaded file section.
 
 # 6. License
+![](images/oshw_facts.jpg)
