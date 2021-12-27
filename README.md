@@ -47,7 +47,7 @@ There is two option in Proteus, “Schematic Capture” where Circuit connection
 
 
 Different types of sensors were also included for measuring different parameters. All the component was selected after doing calculation of some parameters which should be in a ventilator.  
-![alt text](http://url/to/img.png)
+The details is given in  Figure : Schematic design of Real time Controller and User Interface.
 
 
 
