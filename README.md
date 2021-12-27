@@ -66,7 +66,7 @@ Ambu Holder 2.sldprt
 Bag Cover 1.sldprt
 bc25.sldprt
 Ambu > ENSAMBLE AMBU.SLDASM
-![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/drive_mecha_1.png)
 This assembly contains these part files:
 AMBU.SLDPRT
 AMBU2.SLDPRT
