@@ -53,6 +53,29 @@ Both of the unit was embedded in same board, designed really compact and profess
 Some part of User Interface was on PCB and other was on body of Mechanical structure. Here Arduino mega pro was also used as microprocessor. Display and keypad were attached in main board.   In addition, Bluetooth module and wifi module was in design to make this device as IOT. All the component were powered with buck converter and capacitor and resistors was used where necessary. A picture in Figure Schematic design of User Interface shows a better view. 
 Moreover, Figure: PCB design of Medical Ventilator shows a PCB design picture.
 
+# 7. Mechanical drawing
+Emergency Medical Ventilator Design: Opening Instructions
+
+Application for SOLIDWORKS Part files (.SLDPRT), Assembly files (.SLDASM), and Drawing files (.SLDDRW): SOLIDWORKS 2021
+Complete assembly file: Ventilator Full assembly.SLDASM (Open with SOLIDWORKS 2021)
+For any previous SOLIDWORKS versions, open STEP Files > Ventilator full assembly.STEP. Use PDFs within Drawing Files folder to view drawing files.
+Upper Portion part & assembly files:
+
+New Folder >
+Ambu Holder 2.sldprt
+Bag Cover 1.sldprt
+bc25.sldprt
+Ambu > ENSAMBLE AMBU.SLDASM
+This assembly contains these part files:
+AMBU.SLDPRT
+AMBU2.SLDPRT
+AMBU3.SLDPRT
+AMBU4.SLDPRT
+AMBU5.SLDPRT
+AMBU6.SLDPRT
+AMBU7.SLDPRT
+AMBU9.SLDPRT
+
 # License
 The licensing information is given in the image below.
 ![](oshw_facts.jpg)
