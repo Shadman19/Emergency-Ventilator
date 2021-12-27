@@ -39,39 +39,18 @@ https://drive.google.com/file/d/1EURlDSFRqueynMlFAGd0fwvN7exS0qcK/view?usp=shari
 
 -- Codes of user interfacing and other relevant codes and design files have been provided in the uploaded file section.
 # 6. Circuit Part
-Circuit:
+## Circuit:
 The Circuit file named "DK-E-VENT-V2 Design" can be openned by Protues 8.7 or above.
 The file contains RT( Real Time controller part) and UI (User Interface part)
 Both the part integrated in circuit in one PCB board. 
 There is two option in Proteus, “Schematic Capture” where Circuit connection and controller would be found. Another is “PCB layout” where you can find PCB board design in single layer
-
-
 Different types of sensors were also included for measuring different parameters. All the component was selected after doing calculation of some parameters which should be in a ventilator.  
 The details is given in  Figure : Schematic design of Real time Controller and User Interface.
 
-
-
-
-
-
-
-
-
-                                    Figure : Schematic design of Real time Controller and User Interface 
-Real Time (RT) Control Unit: Both of the unit was embedded in same board, designed really compact and professionally. Arduino Mega Pro was used as microcontroller and BTS7960 motor driver to control the motor. This motor driver had enough voltage and current to drive the selected motor. The circuit had 12V, 5V and 3.3-volt power to run different components. So, DC-DC buck converter was used to power up the right components according to their tolerable voltage with references of datasheet. There was a buzzer for alarm. It was designed as all the sensor could easily connect with it. There was also Real time controller (RTC). Fuse was also included in design. Capacitor and resistors were placed where necessary. There were also two limit switches to ensure exhale and inhale.
-
-
-
-
-
-
-
-
-                                         Figure Schematic design of  Real time Controller
-User Interface (UI): Some part of User Interface was on PCB and other was on body of Mechanical structure. Here Arduino mega pro was also used as microprocessor. Display and keypad were attached in main board.   In addition, Bluetooth module and wifi module was in design to make this device as IOT. All the component were powered with buck converter and capacitor and resistors was used where necessary.
-
- 
-                                               Figure: Schematic design of User Interface
+## Real Time (RT) Control Unit: 
+Both of the unit was embedded in same board, designed really compact and professionally. Arduino Mega Pro was used as microcontroller and BTS7960 motor driver to control the motor. This motor driver had enough voltage and current to drive the selected motor. The circuit had 12V, 5V and 3.3-volt power to run different components. So, DC-DC buck converter was used to power up the right components according to their tolerable voltage with references of datasheet. There was a buzzer for alarm. It was designed as all the sensor could easily connect with it. There was also Real time controller (RTC). Fuse was also included in design. Capacitor and resistors were placed where necessary. There were also two limit switches to ensure exhale and inhale. Figure Schematic design of  Real time Controller, gives a clearer perception on it.
+## User Interface (UI): 
+Some part of User Interface was on PCB and other was on body of Mechanical structure. Here Arduino mega pro was also used as microprocessor. Display and keypad were attached in main board.   In addition, Bluetooth module and wifi module was in design to make this device as IOT. All the component were powered with buck converter and capacitor and resistors was used where necessary. A picture in Figure Schematic design of User Interface shows a better view.
 
 
 
