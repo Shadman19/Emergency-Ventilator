@@ -67,6 +67,7 @@ Bag Cover 1.sldprt
 bc25.sldprt
 Ambu > ENSAMBLE AMBU.SLDASM
 ![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/drive_mecha_1.png)
+![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/drive_mecha_2.png)
 This assembly contains these part files:
 AMBU.SLDPRT
 AMBU2.SLDPRT
