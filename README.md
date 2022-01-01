@@ -113,7 +113,7 @@ keypad-16KeyMembrane.SLDPRT
 LCD12864_st7920.step.SLDPRT
 gate.SLDPRT
 DK-E-VENT-V1++ Design xt.SLDPRT (Suppressed for faster opening)
-
+![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/bottom%20structure.png)
 # License
 The licensing information is given in the image below.
 ![](oshw_facts.jpg)
