@@ -86,7 +86,7 @@ ADS-2020-01 XX.SLDPRT
 ADS-2020-02 XX.SLDPRT
 ADS-2020-03 XX.SLDPRT
 
-
+![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/drive_mecha_2.png)
 # License
 The licensing information is given in the image below.
 ![](oshw_facts.jpg)
