@@ -59,6 +59,7 @@ Emergency Medical Ventilator Design: Opening Instructions
 Application for SOLIDWORKS Part files (.SLDPRT), Assembly files (.SLDASM), and Drawing files (.SLDDRW): SOLIDWORKS 2021
 Complete assembly file: Ventilator Full assembly.SLDASM (Open with SOLIDWORKS 2021)
 For any previous SOLIDWORKS versions, open STEP Files > Ventilator full assembly.STEP. Use PDFs within Drawing Files folder to view drawing files.
+
 Upper Portion part & assembly files:
 
 New Folder >
@@ -77,6 +78,14 @@ AMBU5.SLDPRT
 AMBU6.SLDPRT
 AMBU7.SLDPRT
 AMBU9.SLDPRT
+
+Slider Portion:
+
+Slider >
+ADS-2020-01 XX.SLDPRT
+ADS-2020-02 XX.SLDPRT
+ADS-2020-03 XX.SLDPRT
+
 
 # License
 The licensing information is given in the image below.
