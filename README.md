@@ -86,7 +86,34 @@ ADS-2020-01 XX.SLDPRT
 ADS-2020-02 XX.SLDPRT
 ADS-2020-03 XX.SLDPRT
 
-![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/drive_mecha_2.png)
+![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/slider%20portion.png)
+
+Mechanical Hand, Rack and Pinion system:
+
+2021 Ventilator v2.0 > 
+Rack.sldprt
+Updated hand.sldprt
+Spur gear design specifications: 2021 Ventilator v2.0 > Spur Gear AM.txt
+
+Bottom Structure: Covers
+
+2021 Ventilator v2.0 > 
+Base.sldprt
+bottom plate.SLDPRT
+back frame.SLDPRT
+sketch.sldprt
+![alt text](https://github.com/Shadman19/Emergency-Ventilator/blob/main/slider%20portion.png)
+Bottom Structure: Internal Components
+
+2021 Ventilator v2.0 > 
+Mini Rocker 4-Pin Switch - Copy.SLDPRT
+DC Mega torque motor.stp.SLDPRT
+fan full.SLDPRT
+keypad-16KeyMembrane.SLDPRT
+LCD12864_st7920.step.SLDPRT
+gate.SLDPRT
+DK-E-VENT-V1++ Design xt.SLDPRT (Suppressed for faster opening)
+
 # License
 The licensing information is given in the image below.
 ![](oshw_facts.jpg)
