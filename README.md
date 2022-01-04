@@ -38,6 +38,9 @@ https://drive.google.com/file/d/1EURlDSFRqueynMlFAGd0fwvN7exS0qcK/view?usp=shari
 -- The uploaded file "Emergency_Ventilator_Details.pdf" contains a detaild doucumentation to provide a comprehensive description of the work.
 
 -- Codes of user interfacing and other relevant codes and design files have been provided in the uploaded file section.
+
+-- In the "DK-RUET-E-Vent-RT-Real Time" Motor.cpp and Breath.cpp are c++ files and "DK-RUET-E-Vent-UI-User Interface" file BreathMode.cpp, Display.cpp are C++ files and DK-RUET-E-Vent-UI.ino is the arduino file. 
+In each of the folders the corresponding .h files are provided for convenience. The pdsprj files are in the design files.
 # 6. Circuit Part
 ## Circuit:
 The Circuit file named "DK-E-VENT-V2 Design" can be openned by Protues 8.7 or above.
