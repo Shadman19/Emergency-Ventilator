@@ -41,6 +41,7 @@ https://drive.google.com/file/d/1EURlDSFRqueynMlFAGd0fwvN7exS0qcK/view?usp=shari
 
 -- In the "DK-RUET-E-Vent-RT-Real Time" Motor.cpp and Breath.cpp are c++ files and "DK-RUET-E-Vent-UI-User Interface" file BreathMode.cpp, Display.cpp are C++ files and DK-RUET-E-Vent-UI.ino is the arduino file. 
 In each of the folders the corresponding .h files are provided for convenience. The pdsprj files are in the design files.
+Moreover, the Emergency Ventilator_Durbar_Kandari.apk file is the android application file.
 # 6. Circuit Part
 ## Circuit:
 The Circuit file named "DK-E-VENT-V2 Design" can be openned by Protues 8.7 or above.
